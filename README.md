@@ -7,7 +7,7 @@
 **To run this project:**
 
 - Create a new Project in NetBeans
-  Note: Make sure to select Java with Ant (if Newer version of NeatBeans)
+  Note: Make sure to select Java with Ant (if Newer version of NetBeans)
 - Download TelephoneSimulationSystem.java from (app/src/main/java/TelephoneSimulation/TelephoneSimulationSystem.java)
 - Move TelephoneSimulationSystem to your project directory inside source package
   Note: Make sure to update the package
